@@ -1,0 +1,19 @@
+fieldset{
+    border: 7px solid blue;
+    width: 75%;
+    padding:20px;
+    margin-top: 10px;
+    display:inline-block ;
+    text-align:center
+}
+label{
+    color:black;
+    border: 1px solid lightblue;
+}
+
+input{
+  color: blue;
+}
+form{
+    background: yellowgreen; 
+}
